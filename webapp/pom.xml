@@ -5,7 +5,7 @@
   <parent>
     <groupId>com.example.maven-project</groupId>
     <artifactId>maven-project</artifactId>
-    <version>7.0</version>
+    <version>7.1-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
@@ -39,9 +39,4 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
-
-
-  <scm>
-    <tag>7.0.x</tag>
-  </scm>
 </project>
