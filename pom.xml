@@ -211,7 +211,7 @@
   <scm>
     <connection>scm:git:git@github.com:vinaymaddineni/maven-project.git</connection>
     <developerConnection>scm:git:git@github.com:vinaymaddineni/maven-project.git</developerConnection>
-    <url>cm:git:git@github.com:vinaymaddineni/maven-project.git</url>
+    <url>scm:git:git@github.com:vinaymaddineni/maven-project.git</url>
     <tag>HEAD</tag>
   </scm>
 
