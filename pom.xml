@@ -5,7 +5,7 @@
   <groupId>com.example.maven-project</groupId>
   <artifactId>maven-project</artifactId>
   <packaging>pom</packaging>
-  <version>6.1-SNAPSHOT</version>
+  <version>${main-version}</version>
   <name>Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
@@ -14,6 +14,7 @@
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
     <common-version>2.0.6-SNAPSHOT</common-version>
+	  <main-version>6.1-SNAPSHOT</main-version>
   </properties>
 
   <modules>
