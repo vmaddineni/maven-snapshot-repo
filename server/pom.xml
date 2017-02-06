@@ -27,7 +27,7 @@
 
     <dependency>
       <groupId>com.teachingacademy.academy</groupId>
-      <artifactId>academy-parent</artifactId>
+      <artifactId>academy-audit-interface</artifactId>
       <version>${common-version}</version>
     </dependency>
     <dependency>
