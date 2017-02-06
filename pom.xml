@@ -212,7 +212,6 @@
     <connection>scm:git:https://github.com/vinaymaddineni/maven-project.git</connection>
     <developerConnection>scm:git:https://github.com/vinaymaddineni/maven-project.git</developerConnection>
     <url>scm:git:https://github.com/vinaymaddineni/maven-project.git</url>
-    <tag>HEAD</tag>
   </scm>
 
   <prerequisites>
