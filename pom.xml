@@ -13,7 +13,7 @@
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
-    <common-version>2.0.6-CD-SNAPSHOT</common-version>
+    <common-version>2.0.6</common-version>
 	  <main-version>6.1-SNAPSHOT</main-version>
   </properties>
 
