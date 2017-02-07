@@ -58,6 +58,20 @@
 		<goals>deploy</goals>
         </configuration>
       </plugin>
+	 <plugin>
+           <groupId>com.google.code.maven-replacer-plugin</groupId>
+           <artifactId>replacer</artifactId>
+           <version>1.5.3</version>
+           <configuration>
+               <file>pom.xml</file>
+               <replacements>
+                   <replacement>
+                       <token>${common-version}</token>
+                       <value>${replacer.common-version}</value>
+                   </replacement>         
+               </replacements>
+           </configuration>
+        </plugin>
 	<plugin>
 		<groupId>org.codehaus.mojo</groupId>
 		<artifactId>versions-maven-plugin</artifactId>
