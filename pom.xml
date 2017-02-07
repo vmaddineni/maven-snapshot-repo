@@ -66,7 +66,7 @@
                <file>pom.xml</file>
                <replacements>
                    <replacement>
-                       <token>${common-version}</token>
+                       <token>${version}</token>
                        <value>${replacer.common-version}</value>
                    </replacement>         
                </replacements>
