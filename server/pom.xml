@@ -26,11 +26,6 @@
     </dependency>
 
     <dependency>
-      <groupId>com.teachingacademy.academy</groupId>
-      <artifactId>academy-audit-interface</artifactId>
-      <version>${common-version}</version>
-    </dependency>
-    <dependency>
       <groupId>org.hamcrest</groupId>
       <artifactId>hamcrest-core</artifactId>
       <scope>test</scope>
