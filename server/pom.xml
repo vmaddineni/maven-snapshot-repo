@@ -14,6 +14,10 @@
   <name>Server</name>
   <description>Logic.</description>
 
+    <properties>
+  
+    <sub-version>2.0</sub-version>
+</properties>
   <build>
     <finalName>${project.artifactId}</finalName>
   </build>
