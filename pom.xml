@@ -17,10 +17,7 @@
 	  <main-version>6.1-SNAPSHOT</main-version>
   </properties>
 
-  <modules>
-    <module>server</module>
-    <module>webapp</module>
-  </modules>
+
 
   <distributionManagement>
     <site>
