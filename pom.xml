@@ -223,7 +223,7 @@
     <connection>scm:git:https://github.com/vmaddineni/maven-snapshot-repo.git</connection>
     <developerConnection>scm:git:https://github.com/vmaddineni/maven-snapshot-repo.git</developerConnection>
     <url>scm:git:https://github.com/vmaddineni/maven-snapshot-repo.git</url>
-    <tag>7.0.x</tag>
+    <tag>2.0.x</tag>
   </scm>
 
   <prerequisites>
