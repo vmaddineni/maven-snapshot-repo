@@ -5,7 +5,7 @@
   <parent>
     <groupId>com.example.maven-project</groupId>
     <artifactId>maven-project</artifactId>
-    <version>55.0</version>
+    <version>55.1-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
