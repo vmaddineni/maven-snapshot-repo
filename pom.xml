@@ -63,7 +63,8 @@
                <file>pom.xml</file>
                <replacements>
                    <replacement>
-                       <token>${project.version}</token>
+			   <xpath>/project/version/text()</xpath>
+                       <token>^.*$</token>
                        <value>${replacer.common-version}</value>
                    </replacement>         
                </replacements>
