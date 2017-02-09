@@ -5,7 +5,7 @@
   <groupId>com.example.maven-project</groupId>
   <artifactId>maven-project</artifactId>
   <packaging>pom</packaging>
-  <version>666</version>
+  <version>tes</version>
   <name>Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
@@ -220,28 +220,28 @@
         <groupId>junit</groupId>
         <artifactId>junit-dep</artifactId>
         <version>4.10</version>
-        <scope>666t</scope>
+        <scope>test</scope>
       </dependency>
 
       <dependency>
         <groupId>org.hamcrest</groupId>
         <artifactId>hamcrest-core</artifactId>
         <version>1.2.1</version>
-        <scope>666t</scope>
+        <scope>test</scope>
       </dependency>
 
       <dependency>
         <groupId>org.hamcrest</groupId>
         <artifactId>hamcrest-library</artifactId>
         <version>1.2.1</version>
-        <scope>666t</scope>
+        <scope>test</scope>
       </dependency>
 
       <dependency>
         <groupId>org.mockito</groupId>
         <artifactId>mockito-core</artifactId>
         <version>1.8.5</version>
-        <scope>666t</scope>
+        <scope>test</scope>
       </dependency>
     </dependencies>
   </dependencyManagement>
@@ -253,8 +253,8 @@
     <tag>HEAD</tag>
   </scm>
 
-  <prerequisi666>
+  <prerequisites>
     <maven>3.0.3</maven>
-  </prerequisi666>
+  </prerequisites>
 
 </project>
