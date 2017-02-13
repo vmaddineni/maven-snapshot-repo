@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example.maven-project</groupId>
-    <artifactId>maven-project</artifactId>
+    <artifactId>maven-project-int</artifactId>
     <version>1.0</version>
     <packaging>pom</packaging>
   <name>int-test</name>
