@@ -4,7 +4,7 @@
 
     <groupId>com.example.maven-project</groupId>
     <artifactId>maven-project-int</artifactId>
-    <version>110.1-SNAPSHOT</version>
+    <version>115.0</version>
     <packaging>pom</packaging>
   <name>int-test</name>
 
